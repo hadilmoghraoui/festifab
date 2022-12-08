@@ -1,57 +1,64 @@
-*{
+* {
     margin: 0;
     padding: 0;
     background: #013d48;
-    
+
 }
-#festifab{
+
+#festifab {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 20px 80px;
-    background:#013d48 ;
+    background: #013d48;
 }
-.logo{
+
+.logo {
     position: absolute;
     width: 90px;
     height: 80px;
     left: 43px;
     top: -10px;
-   
-}
-#navbar{
-    display: flex;
-    align-items:center;
-    justify-content: center;
-   
-   
-}
-#navbar li {
-list-style: none;
-padding: 0px 30px;
-position: relative;
 
-} 
-#navbar li a{
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+#navbar li {
+    list-style: none;
+    padding: 0px 30px;
+    position: relative;
+
+}
+
+#navbar li a {
     text-decoration: none;
     font-size: 16px;
     font-weight: 600;
     color: white;
     transition: 0.4 ease;
 }
-#navbar li a:hover{
+
+#navbar li a:hover {
     color: #ffd301;
 
 
-}  
-#navbar li a.active::after{
+}
+
+#navbar li a.active::after {
     content: "";
     width: 30%;
     height: 2px;
     background: #ffd301;
     position: absolute;
-bottom: -4px;
-left: 20px;
+    bottom: -4px;
+    left: 20px;
 
 }
 
@@ -174,13 +181,132 @@ button:focus {
     outline: none;
 }
 
+.home-title {
+    position: absolute;
+    width: 350px;
+    height: 334px;
+    left: 28px;
+    top: 187px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 105px;
+    text-align: justify;
+
+
+}
+
+.home-title2 {
+    position: absolute;
+    font-family: 'Poppins';
+    width: 350px;
+    size: 25px;
+    left: 28px;
+    top: 263px;
+    line-height: 37.5px;
+    text-align: justify;
+
+}
+
+.icontexthero1 p {
+    position: absolute;
+    width: 276.71px;
+    height: 39.97px;
+    left: 28px;
+    top: 372px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #040404;
+
+    text-shadow: 10px 4px 4px rgba(37, 206, 209, 0.65);
+
+}
+
+.icontexthero2 p {
+    position: absolute;
+    width: 354px;
+    height: 24px;
+    left: 12px;
+    top: 413px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #040404;
+
+    text-shadow: 0px 4px 4px rgba(37, 206, 209, 0.65);
+
+}
+
+.iconhero1 img {
+    position: absolute;
+    width: 25.44px;
+    height: 33.14px;
+    left: 31px;
+    top: 369px;
+
+}
+
+.iconhero2 img {
+    position: absolute;
+    left: 26px;
+    right: 96.09%;
+    top: 410px;
+    bottom: 93.04%;
+    size-adjust: 4px;
+
+}
+
+.buttonhero {
+    position: absolute;
+    width: 229px;
+    height: 48px;
+    left: 82px;
+    top: 497px;
+    padding-bottom: 0;
+    padding-right: 0;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+
+    background: #FFD301;
+    border-radius: 20px;
+    box-shadow: 0px 8px 15px #FFD301;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #005F73;
+    cursor: pointer;
+
+}
+
+button:focus {
+    outline: none;
+}
+
 .image1 img {
 
     position: absolute;
-    width: 838px;
-    height: 409px;
+    width: 540px;
+    height: 289px;
     left: 593px;
-    top: 181px;
+    top: 230px;
 
     background: #FFFFFF;
     border-radius: 11px;
@@ -189,10 +315,11 @@ button:focus {
 .image2 img {
     position: absolute;
     height: 0px;
-    width: 98.4514177768574px;
-    left: 1350px;
-    top: 380px;
+    width: 68.4514177768574px;
+    left: 1055px;
+    top: 375px;
     border-radius: nullpx;
+    background: #FFFFFF;
 
 
     border: 3px solid #000000;
@@ -201,22 +328,24 @@ button:focus {
 
 .image3 img {
     position: absolute;
-    width: 694.28px;
-    height: 386.77px;
-    left: 653.32px;
-    top: 193.81px;
+    width: 424.28px;
+    height: 270.77px;
+    left: 630.32px;
+    top: 240.81px;
 
     background: url(Capture.png);
     border-radius: 7px;
 }
 
+
 .image4 img {
     position: absolute;
-    height: 70.3224369095301px;
-    width: 69.77720226185284px;
-    left: 960.3385009765625px;
+    height: 49.5px;
+    width: 46.6px;
+    left: 826.625px;
     top: 352.0342102050781px;
     border-radius: 0px;
+    background: url(Capture.png);
 
 }
 
@@ -248,6 +377,3 @@ button:focus {
 
     text-shadow: 0px 4px 4px rgba(255, 211, 1, 0.65);
 }
-
-
-
