@@ -193,7 +193,7 @@ button:focus {
 /* hero */
 .home-title {
     position: absolute;
-    width: 350px;
+    width: 380px;
     height: 334px;
     left: 28px;
     top: 187px;
@@ -213,7 +213,7 @@ button:focus {
     width: 350px;
     size: 25px;
     left: 28px;
-    top: 263px;
+    top: 270px;
     line-height: 37.5px;
     text-align: justify;
 
@@ -536,9 +536,9 @@ button:focus {
 .part1 p {
 
     position: absolute;
-    width: 750px;
+    width: 855px;
     height: 42px;
-    left: 150px;
+    left: 130px;
     top: 5px;
     background-color: rgba(167, 224, 225, 1);
 
@@ -570,7 +570,7 @@ button:focus {
     position: absolute;
     width: 550px;
     height: 42px;
-    left: 170px;
+    left: 150px;
     top: 5px;
     background-color: rgba(167, 224, 225, 1);
 
@@ -602,7 +602,7 @@ button:focus {
     position: absolute;
     width: 750px;
     height: 42px;
-    left: 170px;
+    left: 150px;
     top: 5px;
     background-color: rgba(167, 224, 225, 1);
 
@@ -842,7 +842,7 @@ button:focus {
 
 .program p {
     position: absolute;
-    width: 800px;
+    width: 900px;
     height: 92px;
     left: 10px;
     top: 10px;
@@ -1015,7 +1015,7 @@ button:focus {
     position: absolute;
     width: 667.3px;
     height: 56.9px;
-    left: 400px;
+    left: 380px;
     top: 6891.88px;
 
     font-family: 'Poppins';
@@ -1034,7 +1034,7 @@ button:focus {
     position: absolute;
     width: 264.68px;
     height: 72.42px;
-    left: 530px;
+    left: 510px;
     top: 6946px;
 
     font-family: 'Poppins';
@@ -1054,7 +1054,7 @@ button:focus {
     position: absolute;
     height: 130px;
     width: 95.03572845458984px;
-    left: 760px;
+    left: 770px;
     top: 6960px;
     border-radius: 0px;
 
