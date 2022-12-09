@@ -437,6 +437,68 @@ button:focus {
 
 }
 
+/* agenda */
+.oval {
+    position: absolute;
+    width: 1000px;
+    height: 220.19px;
+    left: 200px;
+    top: 3400.37px;
+
+    background: #25CED1;
+    border-radius: 122.097px;
+}
+
+.oval h1 {
+    position: absolute;
+    width: 900px;
+    height: 50px;
+    left: 70px;
+    top: 20px;
+    border-radius: 122.097px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 650;
+    font-size: 38px;
+    line-height: 60px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    border-radius: 122.097px;
+
+    text-shadow: 0px 4px 4px #FFD301;
+}
+
+.oval p {
+    position: absolute;
+    width: 900px;
+    height: 50px;
+    left: 60px;
+    top: 90px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.1em;
+    text-transform: capitalize;
+
+    color: #000000;
+}
+
+.image7 {
+    box-sizing: border-box;
+    border-radius: 122.097px;
+    position: absolute;
+    width: 80px;
+    height: 172.29px;
+    left: 10px;
+    top: 3350px;
+
+    border-radius: 17px;
+}
+
 /* faq */
 .faq-item1 {
     box-sizing: border-box;
@@ -490,7 +552,7 @@ button:focus {
     left: 215px;
     top: 6619.85px;
 
-    background: linear-gradient(93.34deg, rgba(0, 95, 115, 0.17) -20.32%, rgba(37, 206, 209, 0.26) 88.13%);
+    background: linear-gradient(93.34deg, rgba(0, 98, 117, 0.169) -20.32%, rgba(37, 206, 209, 0.26) 88.13%);
     border-radius: 45px;
     border: solid rgba(37, 206, 209, 1);
 }
