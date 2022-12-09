@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Poppins;
+    src: url(Poppins-Bold.ttf);
+}
+
 /* navbar */
 * {
     margin: 0;
@@ -76,7 +81,6 @@
     top: 187px;
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 700;
     font-size: 70px;
     line-height: 105px;
     text-align: justify;
@@ -88,9 +92,8 @@
     position: absolute;
     font-family: 'Poppins';
     width: 700px;
-    size: 25px;
     left: 28px;
-    top: 263px;
+    top: 265px;
     line-height: 37.5px;
     text-align: justify;
 
@@ -861,9 +864,9 @@ button:focus {
     box-sizing: border-box;
 
     position: absolute;
-    width: 800px;
+    width: 700px;
     height: 57.52px;
-    left: 215px;
+    left: 260px;
     top: 6361px;
 
 
@@ -876,9 +879,9 @@ button:focus {
     box-sizing: border-box;
 
     position: absolute;
-    width: 800px;
+    width: 700px;
     height: 57.52px;
-    left: 215px;
+    left: 260px;
     top: 6447.28px;
 
     background: linear-gradient(93.34deg, rgba(0, 95, 115, 0.17) -20.32%, rgba(37, 206, 209, 0.26) 88.13%);
@@ -890,9 +893,9 @@ button:focus {
     box-sizing: border-box;
 
     position: absolute;
-    width: 800px;
+    width: 700px;
     height: 57.52px;
-    left: 215px;
+    left: 260px;
     top: 6533.56px;
 
     background: linear-gradient(93.34deg, rgba(0, 95, 115, 0.17) -20.32%, rgba(37, 206, 209, 0.26) 88.13%);
@@ -904,9 +907,9 @@ button:focus {
     box-sizing: border-box;
 
     position: absolute;
-    width: 800px;
+    width: 700px;
     height: 57.52px;
-    left: 215px;
+    left: 260px;
     top: 6619.85px;
 
     background: linear-gradient(93.34deg, rgba(0, 98, 117, 0.169) -20.32%, rgba(37, 206, 209, 0.26) 88.13%);
@@ -984,6 +987,26 @@ button:focus {
     text-transform: uppercase;
 
     color: #A7E0E1;
+}
+
+.imgflesh3 {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 1000px;
+    top: 6150px;
+    border-radius: 0px;
+
+}
+
+.imgflesh4 {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 15px;
+    top: 6510px;
+    border-radius: 0px;
+
 }
 
 /* contact-us */
