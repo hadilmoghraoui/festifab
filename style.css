@@ -410,6 +410,21 @@ button:focus {
     text-shadow: 7px -7px 20px;
 }
 
+#details h2 {
+    color: #FFD301;
+    text-shadow: 7px -7px 20px;
+}
+
+#cse h2 {
+    color: #FFD301;
+    text-shadow: 7px -7px 20px;
+}
+
+#cse2 h2 {
+    color: #FFD301;
+    text-shadow: 7px -7px 20px;
+}
+
 #details {
     margin-left: 100px;
     margin-right: 50px;
@@ -421,9 +436,20 @@ button:focus {
 
 }
 
+.imgflesh1 {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 600px;
+    top: 800px;
+    border-radius: 0px;
+
+    transform: rotate(180deg);
+}
+
 #cse {
     margin-top: 150px;
-    margin-bottom: 150px;
+    margin-bottom: 90px;
     margin-left: 700px;
     margin-right: 150px;
     color: white;
@@ -431,14 +457,33 @@ button:focus {
     font-style: oblique;
 }
 
+.imgCse {
+    position: absolute;
+    height: 100px;
+    width: 95.03572845458984px;
+    left: 250px;
+    top: 1200px;
+    border-radius: 0px;
+}
+
 #cse2 {
     margin-top: 70px;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
     margin-left: 100px;
     margin-right: 800px;
     color: white;
     font-size: 18px;
     font-style: oblique;
+
+}
+
+.imgflesh2 {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 500px;
+    top: 1600px;
+    border-radius: 0px;
 
 }
 
