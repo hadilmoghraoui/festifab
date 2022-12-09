@@ -405,27 +405,49 @@ button:focus {
     padding: 10px;
     color: white;
     font-size: 18px;
-    font-style: oblique;
 }
 
 #intro h2 {
     color: #FFD301;
     text-shadow: 7px -7px 20px;
+    font-family: 'Poppins';
+}
+
+#intro p {
+    font-style: oblique;
 }
 
 #details h2 {
     color: #FFD301;
     text-shadow: 7px -7px 20px;
+    font-family: 'Poppins';
+}
+
+#details li {
+    font-style: oblique;
+
 }
 
 #cse h2 {
     color: #FFD301;
     text-shadow: 7px -7px 20px;
+    font-family: 'Poppins';
+}
+
+#cse p {
+    font-style: oblique;
+
 }
 
 #cse2 h2 {
     color: #FFD301;
     text-shadow: 7px -7px 20px;
+    font-family: 'Poppins';
+}
+
+#cse2 p {
+    font-style: oblique;
+
 }
 
 #details {
@@ -435,7 +457,6 @@ button:focus {
     margin-bottom: 150px;
     color: white;
     font-size: 18px;
-    font-style: oblique;
 
 }
 
@@ -457,7 +478,6 @@ button:focus {
     margin-right: 150px;
     color: white;
     font-size: 18px;
-    font-style: oblique;
 }
 
 .imgCse {
@@ -476,7 +496,6 @@ button:focus {
     margin-right: 800px;
     color: white;
     font-size: 18px;
-    font-style: oblique;
 
 }
 
@@ -1079,6 +1098,7 @@ button:focus {
     margin-bottom: 200px;
     height: 200px;
     text-align: center;
+    font-family: 'Poppins';
 
 }
 
@@ -1090,7 +1110,7 @@ button:focus {
     border: none;
     outline: none;
     border-radius: 45px;
-    font-family: calibri;
+    font-family: 'Poppins';
     text-transform: uppercase;
     font-size: 0.9rem;
     letter-spacing: 1px;
@@ -1136,7 +1156,7 @@ button:active {
 
 .sign-in-page input::placeholder {
     color: white;
-    font-family: calbri;
+    font-family: 'Poppins';
     font-size: 15px;
 }
 
@@ -1151,5 +1171,6 @@ button:active {
     border-radius: 45px;
     color: white;
     font-size: 16px;
+    font-family: 'Poppins';
 
 }
