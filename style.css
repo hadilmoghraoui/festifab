@@ -566,3 +566,65 @@ button:focus {
 
     color: #A7E0E1;
 }
+
+/* contact-us */
+
+.motFin1 {
+    position: absolute;
+    width: 667.3px;
+    height: 56.9px;
+    left: 400px;
+    top: 6891.88px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 52px;
+    text-transform: capitalize;
+
+    color: #A7E0E1;
+
+    text-shadow: 0px 4px 4px rgba(255, 255, 255, 0.3);
+}
+
+.motFin2 {
+    position: absolute;
+    width: 264.68px;
+    height: 72.42px;
+    left: 530px;
+    top: 6946px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    text-transform: capitalize;
+
+    color: rgba(167, 224, 225, 1);
+
+    text-shadow: 0px 4px 4px rgba(255, 211, 1, 0.5);
+}
+
+
+.image5 {
+    position: absolute;
+    height: 130px;
+    width: 95.03572845458984px;
+    left: 760px;
+    top: 6960px;
+    border-radius: 0px;
+
+}
+
+.contact {
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    left: 0px;
+    top: 7220px;
+
+
+    background: linear-gradient(90.09deg, #005F73 -22.25%, #25CED1 112.51%);
+}
