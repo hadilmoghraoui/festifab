@@ -989,10 +989,10 @@ button:focus {
 
 .contact {
     position: absolute;
-    width: 100%;
+    width: 200;
     height: 80px;
-    left: 0px;
-    top: 7220px;
+    left: -320px;
+    top: 7230px;
 
 
     background: linear-gradient(90.09deg, #005F73 -22.25%, #25CED1 112.51%);
