@@ -1174,3 +1174,33 @@ button:active {
     font-family: 'Poppins';
 
 }
+
+.imgflesh5 {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 850px;
+    top: 5400px;
+    border-radius: 0px;
+
+}
+
+.imgflesh6 {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 300px;
+    top: 5700px;
+    border-radius: 0px;
+
+}
+
+.imgflesh7 {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 300px;
+    top: 5500px;
+    border-radius: 0px;
+
+}
